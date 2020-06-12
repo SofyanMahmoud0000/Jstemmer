@@ -49,7 +49,7 @@ please send me an e-mail to sofyan1020@gmail.com.
 
 
 ## Authors
-***Sofyan Mahmoud*** - computer engineering 
+***Sofyan Mahmoud*** - computer engineer
 
 
 ## Licence 

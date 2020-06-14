@@ -52,7 +52,3 @@ please send me an e-mail to sofyan1020@gmail.com.
 [Sofyan Mahmoud](https://github.com/sofyanmahmoud0000) - computer engineer
 
 
-## Licence 
-MIT
-
-
